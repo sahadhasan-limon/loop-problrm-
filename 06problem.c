@@ -3,7 +3,7 @@
 int main()
 {
     int i, j, n;
-    printf("Input the table number starting from 1 ");
+    printf("Input the table number start from 1 ");
     scanf("%d", &n);
 
     printf("Multiplication table from 1 to %d\n", n);
